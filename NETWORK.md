@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Reasoning Engine
 
-**ai-reasoning-engine** is part of the Zion Tech Group app network (630+ apps).
+Reasoning and logic engine for complex decision-making.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-deep-research](https://github.com/Zion-support/ai-deep-research) · [ai-eval-harness](https://github.com/Zion-support/ai-eval-harness) · [zion-ai-model-arena](https://github.com/Zion-support/zion-ai-model-arena) · [ai-assessment-engine](https://github.com/Zion-support/ai-assessment-engine)
 
-## Related apps
-- [ai-eval-harness](https://github.com/Zion-support/ai-eval-harness) — Evaluation & regression testing
-- [ai-prompt-engineer](https://github.com/Zion-support/ai-prompt-engineer) — Prompt engineering toolkit
-- [ai-deep-research](https://github.com/Zion-support/ai-deep-research) — Deep research engine
-- [llm-gateway](https://github.com/Zion-support/llm-gateway) — Smart model routing & failover
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
