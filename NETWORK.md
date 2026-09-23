@@ -1,16 +1,18 @@
-# 🌐 Zion App Network — Interlinks
+# AI Reasoning Engine — Part of the Zion AI App Network
 
-**ai-reasoning-engine** is part of the Zion Tech Group app network (630+ apps).
+Live app: https://zion-support.github.io/ai-reasoning-engine/
 
-- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+## 🔗 Explore the network
+- 🏠 Homepage: https://ziontechgroup.com/
+- 🌐 App Network hub: https://ziontechgroup.com/zion-app-network/ · [GitHub hub](https://github.com/Zion-support/zion-app-network)
+- 🧰 All tools: https://ziontechgroup.com/tools/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Free discovery call: https://ziontechgroup.com/discovery/
 
 ## Related apps
-- [zion-ai-prompt-router](https://github.com/Zion-support/zion-ai-prompt-router) — intelligent LLM routing
-- [rag-evaluator](https://github.com/Zion-support/rag-evaluator) — RAG quality scoring
-- [ai-eval-harness](https://github.com/Zion-support/ai-eval-harness) — LLM regression testing
-- [llm-cost-optimizer](https://github.com/Zion-support/llm-cost-optimizer) — token spend optimization
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [AI Assessment Engine](https://ziontechgroup.com/ai-assessment-engine/)
+- [Zion AI Model Arena](https://modelarena.ziontechgroup.com)
+- [Zion Vector Search](https://ziontechgroup.com/zion-vector-search/)
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+© 2026 Zion Tech Group · https://ziontechgroup.com/
